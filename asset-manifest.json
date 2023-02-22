@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-delivery-service_project-16/static/css/main.e5e6a8e0.css",
+    "main.js": "/food-delivery-service_project-16/static/js/main.56a717da.js",
+    "index.html": "/food-delivery-service_project-16/index.html",
+    "main.e5e6a8e0.css.map": "/food-delivery-service_project-16/static/css/main.e5e6a8e0.css.map",
+    "main.56a717da.js.map": "/food-delivery-service_project-16/static/js/main.56a717da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e6a8e0.css",
+    "static/js/main.56a717da.js"
+  ]
+}
